@@ -1,5 +1,6 @@
 ---
 framework: 'jasmine'
+nodeVersion: 14.16.1
 postMerge:
   pattern:
     - './aio/tests/**/**/*spec.ts'
